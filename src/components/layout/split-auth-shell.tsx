@@ -39,7 +39,7 @@ export function SplitAuthShell({
             <img
               src="/brand/logo.png"
               alt="SSG Team Swim System"
-              className="h-8 w-auto object-contain transition-transform group-hover:scale-105"
+              className="h-8 w-8 rounded-lg object-contain bg-slate-950 p-1 border border-slate-800 shadow-2xs transition-transform group-hover:scale-105"
             />
             <div className="flex flex-col">
               <span className="font-heading text-sm font-black tracking-tight text-slate-950">

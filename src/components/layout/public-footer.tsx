@@ -161,7 +161,7 @@ export function PublicFooter() {
               SSG Team Sports & Event Organizer
             </h4>
             <p className="italic text-cyan-200 text-xs font-medium">
-              &ldquo;We Organize, You Achieve&rdquo;
+              &ldquo;Faster • Stronger • Together&rdquo;
             </p>
             <p className="text-xs text-slate-300 leading-relaxed">
               Mitra strategis dan terpercaya dalam penyelenggaraan acara olahraga renang di Indonesia.

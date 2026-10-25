@@ -305,7 +305,7 @@ export function MobileSidebar({ role }: { role?: string }) {
               <img
                 src="/brand/logo.png"
                 alt="SSG Team Swim System"
-                className="h-7 w-auto object-contain"
+                className="h-8 w-8 rounded-lg object-contain bg-slate-950 p-1 border border-slate-800 shadow-2xs"
               />
               <span className="font-heading font-black text-sm text-[var(--m-ink)]">
                 SSG Team <span className="text-[var(--m-aqua)]">Swim System</span>

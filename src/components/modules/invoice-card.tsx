@@ -213,7 +213,7 @@ export function InvoiceCard({
               <img
                 src="/brand/logo.png"
                 alt="SSG Team Swim System"
-                className="h-10 w-auto object-contain bg-white/20 rounded-lg p-1.5 backdrop-blur-xs mb-1"
+                className="h-11 w-11 object-contain bg-slate-950 rounded-xl p-1 border border-white/20 shadow-md mb-1"
               />
               <p className="text-sm sm:text-base font-black tracking-[0.18em] text-white leading-tight font-heading">
                 SSG TEAM

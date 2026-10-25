@@ -87,7 +87,7 @@ export default function KontakPage() {
 
         <p className="mt-6 flex items-center justify-center gap-2 text-sm text-[var(--m-muted)]">
           <Waves className="h-4 w-4 text-[var(--m-aqua)]" />
-          SSG Team Swim System — We Organize, You Achieve.
+          SSG Team Swim System — Faster • Stronger • Together.
         </p>
       </section>
     </PublicShell>

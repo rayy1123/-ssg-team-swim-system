@@ -161,14 +161,14 @@ export function LandingSidebarDrawer({
             <img
               src="/brand/logo.png"
               alt="SSG Team Swim System"
-              className="h-8 w-auto object-contain"
+              className="h-8 w-8 rounded-xl object-contain bg-slate-950 p-1 border border-slate-800 shadow-2xs"
             />
             <div>
               <div className="font-heading font-black text-sm text-[var(--m-ink)] leading-tight">
                 SSG Team <span className="text-[var(--m-aqua)]">Swim System</span>
               </div>
               <SheetTitle className="text-[10px] font-semibold italic text-primary leading-none mt-0.5">
-                &ldquo;We Organize, You Achieve&rdquo;
+                &ldquo;Faster • Stronger • Together&rdquo;
               </SheetTitle>
             </div>
           </div>

@@ -5,7 +5,7 @@ export function LoadingScreen({ text }: { text?: string }) {
     <div className="fixed inset-0 z-[9999] flex flex-col items-center justify-center gap-3.5 bg-white/90 backdrop-blur-xs animate-fade-in-out">
       <div className="relative flex items-center justify-center">
         <div className="absolute h-16 w-16 animate-ping rounded-full bg-cyan-100 opacity-75" />
-        <div className="relative flex h-16 w-16 items-center justify-center rounded-2xl border border-slate-200 bg-white p-2.5 shadow-sm">
+        <div className="relative flex h-16 w-16 items-center justify-center rounded-2xl border border-slate-800 bg-slate-950 p-2 shadow-sm">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src="/brand/logo.png"
